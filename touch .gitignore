@@ -1,2 +1,2 @@
-touch .gitignore
-HW_1
+.gitignore
+/HW_1
